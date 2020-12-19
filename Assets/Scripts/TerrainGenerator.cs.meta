@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 28961e9755c97024f98913c81b695bc4
+timeCreated: 1459546455
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ring: {fileID: 113824, guid: 4bace0ad627be5740afaa4fbd9cda35c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
